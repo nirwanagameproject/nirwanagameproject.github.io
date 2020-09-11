@@ -259,6 +259,8 @@ ol {
 	display: inline-block;
 	float: left;
 	padding-top: 6px;
+	width:150px;
+	height:52.5px;
 }
 
 .user-panel {
@@ -322,6 +324,7 @@ ol {
 .hero-slider .hs-text {
 	display: table-cell;
 	vertical-align: middle;
+		padding-top: 400px;
 }
 
 .hero-slider .hs-text h2 {
@@ -1465,6 +1468,7 @@ ol {
 	.hero-slider .hs-item {
 		height: auto;
 		padding: 150px 0;
+		padding-top: 300px;
 	}
 	.ln-title {
 		display: none;
